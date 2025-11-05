@@ -1,7 +1,8 @@
 name: graphly
-description: "A new Flutter package project."
+description: "Graph library for Flutter."
 version: 0.0.1
-homepage:
+homepage: https://github.com/AlexHCJP/graphly
+repository: https://github.com/AlexHCJP/graphly
 
 environment:
   sdk: ^3.8.1
